@@ -5,4 +5,4 @@ var app = new Vue({
     }
 });
 
-app.message = 'I have caaahansged the myUpdates!';
+app.message = 'I have caaahansged the again!';
